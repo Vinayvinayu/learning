@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T10:04:41.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="zbtOxNSUMpWvGyUQao2U" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T10:07:31.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="BX1g6MQ_FDeNUVSlEz7C" version="16.6.1" type="github">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Page-1">
     <mxGraphModel dx="2156" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -122,6 +122,24 @@
         <mxCell id="8EHoWaDJpxVRBWGaWh73-29" value="consumers consume message &lt;br&gt;from one or more partitions" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1113" y="590" width="230" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="8EHoWaDJpxVRBWGaWh73-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8EHoWaDJpxVRBWGaWh73-30" target="8EHoWaDJpxVRBWGaWh73-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8EHoWaDJpxVRBWGaWh73-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8EHoWaDJpxVRBWGaWh73-30" target="8EHoWaDJpxVRBWGaWh73-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="800" />
+              <mxPoint x="1719" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8EHoWaDJpxVRBWGaWh73-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8EHoWaDJpxVRBWGaWh73-30" target="8EHoWaDJpxVRBWGaWh73-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="904" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8EHoWaDJpxVRBWGaWh73-30" value="Maximum consumers&lt;br&gt;&amp;nbsp;can be equal to &lt;br&gt;number of partitions" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="580" width="200" height="110" as="geometry" />
         </mxCell>
@@ -145,6 +163,15 @@
         </mxCell>
         <mxCell id="8EHoWaDJpxVRBWGaWh73-45" value="Out of multiple partitions for&amp;nbsp;&lt;br&gt;one of the partition is leader" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="1180" width="210" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="8EHoWaDJpxVRBWGaWh73-47" value="atleast once" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="592" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8EHoWaDJpxVRBWGaWh73-48" value="atmost once" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="755" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8EHoWaDJpxVRBWGaWh73-49" value="exactly once" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="860" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
