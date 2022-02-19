@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T10:09:46.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="AMgyUGuFyK-4ccGfZ69x" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T14:53:58.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="P9PkDbdovTseA9nWG7E9" version="16.6.1" type="github">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Page-1">
     <mxGraphModel dx="2156" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="8EHoWaDJpxVRBWGaWh73-54" value="sends notification to kafka in case of new topic, &lt;br&gt;broker dies/ comes up, delete topics etc" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1560" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8EHoWaDJpxVRBWGaWh73-55" value="zookeeper works&lt;br&gt;&amp;nbsp;with odd number &lt;br&gt;of servers" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1590" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
