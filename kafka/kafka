@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T16:17:00.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="sTKOCmBWJuMhZiN8cfw8" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T03:49:24.089Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wlJJFPXO05PcsEWJ5u7Z" version="16.6.1" type="github">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Page-1">
-    <mxGraphModel dx="1248" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,19 +182,19 @@
         <mxCell id="8EHoWaDJpxVRBWGaWh73-55" value="zookeeper works&lt;br&gt;&amp;nbsp;with odd number &lt;br&gt;of servers" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="1590" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cpcuRiZiWbRieEkt5z1h-1" value="acks=0" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpcuRiZiWbRieEkt5z1h-1" value="acks=0" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="950" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cpcuRiZiWbRieEkt5z1h-2" value="acks=1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpcuRiZiWbRieEkt5z1h-2" value="acks=1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="1010" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cpcuRiZiWbRieEkt5z1h-3" value="acks=all" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpcuRiZiWbRieEkt5z1h-3" value="acks=all" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="1070" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cpcuRiZiWbRieEkt5z1h-4" value="minInSyncReplica can be&lt;br&gt;at broker level or topic level" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpcuRiZiWbRieEkt5z1h-4" value="minInSyncReplica can be&lt;br&gt;at broker level or topic level" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="640" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cpcuRiZiWbRieEkt5z1h-5" value="&lt;h1&gt;inSyncReplica&lt;/h1&gt;&lt;p&gt;minInSyncReplica needs to be 2&lt;br&gt;replication factor will be minimum of 3&lt;br&gt;No of servers that can go own at once is only 1&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cpcuRiZiWbRieEkt5z1h-5" value="&lt;h1&gt;inSyncReplica&lt;/h1&gt;&lt;p&gt;minInSyncReplica needs to be 2&lt;br&gt;replication factor will be minimum of 3&lt;br&gt;No of servers that can go own at once is only 1&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="690" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
