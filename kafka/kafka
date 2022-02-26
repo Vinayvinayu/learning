@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T04:37:11.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="yZRneL4p8RVH5hNxz37o" version="16.6.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-02-26T03:34:10.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UIdpK8qpAAvLuyb8reZv" version="16.6.1" type="github" pages="8">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Kafka">
     <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -286,6 +286,17 @@
         </mxCell>
         <mxCell id="jAbuAw67X2aVCBypAIHs-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;software reliability can be defined as&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;the probability of failure-free operation of a computer program in a specified environment for a specified time&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="jAbuAw67X2aVCBypAIHs-1">
           <mxGeometry x="270" y="400" width="550" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mUnjq6NDo8z5kzlrdyd8" name="Eng.Manager.Interview.Questions">
+    <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="7rt7uUSXzk77erBRqXjZ-0" />
+        <mxCell id="7rt7uUSXzk77erBRqXjZ-1" parent="7rt7uUSXzk77erBRqXjZ-0" />
+        <mxCell id="7rt7uUSXzk77erBRqXjZ-2" value="&lt;h1&gt;How do you set goals for your team?&lt;/h1&gt;&lt;p&gt;1. Need to get inputs from right place, senior leadership, take input from Product teams,,from the team like tech debt items.&lt;/p&gt;&lt;p&gt;S&lt;span&gt;end survey to users.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Ask for ideas from team&lt;/p&gt;&lt;p&gt;Gather all the items at one place.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="7rt7uUSXzk77erBRqXjZ-1">
+          <mxGeometry x="70" y="60" width="1060" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
