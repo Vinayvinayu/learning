@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T03:34:10.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UIdpK8qpAAvLuyb8reZv" version="16.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-26T03:34:51.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="mfp98i0sAQFHtHZoKarX" version="16.6.1" type="github" pages="9">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Kafka">
     <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -297,6 +297,17 @@
         <mxCell id="7rt7uUSXzk77erBRqXjZ-1" parent="7rt7uUSXzk77erBRqXjZ-0" />
         <mxCell id="7rt7uUSXzk77erBRqXjZ-2" value="&lt;h1&gt;How do you set goals for your team?&lt;/h1&gt;&lt;p&gt;1. Need to get inputs from right place, senior leadership, take input from Product teams,,from the team like tech debt items.&lt;/p&gt;&lt;p&gt;S&lt;span&gt;end survey to users.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Ask for ideas from team&lt;/p&gt;&lt;p&gt;Gather all the items at one place.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="7rt7uUSXzk77erBRqXjZ-1">
           <mxGeometry x="70" y="60" width="1060" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="B6LUasPjJk364trJGMKQ" name="Agile">
+    <mxGraphModel dx="1186" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="yG1J441jECmRfqysdr_J-0" />
+        <mxCell id="yG1J441jECmRfqysdr_J-1" parent="yG1J441jECmRfqysdr_J-0" />
+        <mxCell id="yG1J441jECmRfqysdr_J-2" value="Objectives and key results" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
+          <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
