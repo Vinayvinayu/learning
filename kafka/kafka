@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T03:41:11.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="M2Kk6QT2yjbBC_6eRzfx" version="16.6.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-02-26T03:42:20.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3qrJCCNspqyW_F0kFiL6" version="16.6.1" type="github" pages="9">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Kafka">
     <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -307,19 +307,19 @@
         <mxCell id="yG1J441jECmRfqysdr_J-0" />
         <mxCell id="yG1J441jECmRfqysdr_J-1" parent="yG1J441jECmRfqysdr_J-0" />
         <mxCell id="yG1J441jECmRfqysdr_J-2" value="&lt;b&gt;OKR&lt;/b&gt; : Objectives and key results" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
-          <mxGeometry x="440" y="150" width="340" height="60" as="geometry" />
+          <mxGeometry x="290" y="150" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yG1J441jECmRfqysdr_J-3" value="KPI : Key Performance Indicator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
-          <mxGeometry x="440" y="240" width="340" height="60" as="geometry" />
+          <mxGeometry x="290" y="240" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yG1J441jECmRfqysdr_J-4" value="BAU : Business As Usual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
-          <mxGeometry x="440" y="330" width="340" height="60" as="geometry" />
+          <mxGeometry x="290" y="330" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yG1J441jECmRfqysdr_J-5" value="RTO : Recovery Time Objective" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
-          <mxGeometry x="440" y="420" width="340" height="60" as="geometry" />
+          <mxGeometry x="290" y="420" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yG1J441jECmRfqysdr_J-6" value="RPO : Recovery Point Objective" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
-          <mxGeometry x="440" y="500" width="340" height="60" as="geometry" />
+          <mxGeometry x="290" y="500" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-tCLkAHdkpFeeVGg2Dc3-0" value="Daily Standup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
           <mxGeometry x="50" y="150" width="200" height="60" as="geometry" />
@@ -335,6 +335,15 @@
         </mxCell>
         <mxCell id="-tCLkAHdkpFeeVGg2Dc3-4" value="Demo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
           <mxGeometry x="50" y="510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCLkAHdkpFeeVGg2Dc3-5" value="&lt;b&gt;Agile&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
+          <mxGeometry x="50" y="100" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCLkAHdkpFeeVGg2Dc3-6" value="Scrum of Scums" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
+          <mxGeometry x="50" y="590" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCLkAHdkpFeeVGg2Dc3-7" value="&lt;b&gt;Kanban&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
+          <mxGeometry x="690" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
