@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T14:22:44.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wsKLptmwlZQ65YjZELj4" version="16.6.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-02-26T14:23:17.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="vDzeSQp1eKkFMH-ejU_k" version="16.6.4" type="github" pages="11">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Kafka">
     <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -309,6 +309,9 @@
         </mxCell>
         <mxCell id="hGSvI_sAO3iTnPxIKR0e-1" value="How do you deal with high achievers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7rt7uUSXzk77erBRqXjZ-1">
           <mxGeometry x="80" y="1030" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hGSvI_sAO3iTnPxIKR0e-3" value="How do you deal with conflict management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7rt7uUSXzk77erBRqXjZ-1">
+          <mxGeometry x="80" y="1280" width="400" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
