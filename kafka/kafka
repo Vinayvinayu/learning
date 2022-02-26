@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T14:25:38.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="NbtqCTTk0APhvfcr_uZd" version="16.6.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-02-26T14:49:08.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ILLLrQQ655S3L0SYgF7_" version="16.6.4" type="github" pages="11">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Kafka">
     <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -318,6 +318,9 @@
         </mxCell>
         <mxCell id="hGSvI_sAO3iTnPxIKR0e-5" value="Hiring:&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7rt7uUSXzk77erBRqXjZ-1">
           <mxGeometry x="80" y="1730" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hGSvI_sAO3iTnPxIKR0e-6" value="My learnings from in individual contributor role plays a very important role in my working style:&lt;br&gt;- I ensure every team member has clarity as to what is expected from them.&lt;br&gt;- I always felt when there is ambiguity people cannot proceed or gets stuck up, so providing clarity as to what exactly is needed helps.&lt;br&gt;- I keep having a one-one sync up with my team members every alternate week and every week with my lead just to understand the mood they are in. I ask them did they learn anything new over the past week. What is the progress on their technical stretch goals, ask if they have any questions for me they ask a lot of questions like when they can get promotion, they will report about some of the monotonous work they are doing, issues they have faced in the recent past, etc etc.&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7rt7uUSXzk77erBRqXjZ-1">
+          <mxGeometry x="550" y="800" width="640" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
