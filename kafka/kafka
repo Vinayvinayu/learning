@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T03:39:18.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="KwDEi9KufhTfQnMXrsOV" version="16.6.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-02-26T03:41:11.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="M2Kk6QT2yjbBC_6eRzfx" version="16.6.1" type="github" pages="9">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Kafka">
     <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -295,7 +295,7 @@
       <root>
         <mxCell id="7rt7uUSXzk77erBRqXjZ-0" />
         <mxCell id="7rt7uUSXzk77erBRqXjZ-1" parent="7rt7uUSXzk77erBRqXjZ-0" />
-        <mxCell id="7rt7uUSXzk77erBRqXjZ-2" value="&lt;h1&gt;How do you set goals for your team?&lt;/h1&gt;&lt;p&gt;1. Need to get inputs from right place, senior leadership, take input from Product teams,,from the team like tech debt items.&lt;/p&gt;&lt;p&gt;S&lt;span&gt;end survey to users.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Ask for ideas from team&lt;/p&gt;&lt;p&gt;Gather all the items at one place.&lt;/p&gt;&lt;p&gt;Rank all the items&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="7rt7uUSXzk77erBRqXjZ-1">
+        <mxCell id="7rt7uUSXzk77erBRqXjZ-2" value="&lt;h1&gt;How do you set goals for your team?&lt;/h1&gt;&lt;p&gt;1. Need to get inputs from right place, senior leadership, take input from Product teams,,from the team like tech debt items.&lt;/p&gt;&lt;p&gt;S&lt;span&gt;end survey to users.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Ask for ideas from team&lt;/p&gt;&lt;p&gt;Gather all the items at one place.&lt;/p&gt;&lt;p&gt;Rank all the items&lt;/p&gt;&lt;p&gt;Data driven decisions&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="7rt7uUSXzk77erBRqXjZ-1">
           <mxGeometry x="70" y="60" width="1060" height="250" as="geometry" />
         </mxCell>
       </root>
@@ -320,6 +320,21 @@
         </mxCell>
         <mxCell id="yG1J441jECmRfqysdr_J-6" value="RPO : Recovery Point Objective" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
           <mxGeometry x="440" y="500" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCLkAHdkpFeeVGg2Dc3-0" value="Daily Standup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
+          <mxGeometry x="50" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCLkAHdkpFeeVGg2Dc3-1" value="Backlog grooming/ refinement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
+          <mxGeometry x="50" y="240" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCLkAHdkpFeeVGg2Dc3-2" value="Sprint Planning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
+          <mxGeometry x="50" y="330" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCLkAHdkpFeeVGg2Dc3-3" value="Retrospecitive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
+          <mxGeometry x="50" y="420" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tCLkAHdkpFeeVGg2Dc3-4" value="Demo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yG1J441jECmRfqysdr_J-1">
+          <mxGeometry x="50" y="510" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
