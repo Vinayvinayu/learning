@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T16:18:40.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="KEqMip7bedC1Y-CpkWL-" version="16.6.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-20T06:54:54.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="ZxHPoRtCy1MT59-RvsvH" version="17.1.3" type="github" pages="13">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Kafka">
     <mxGraphModel dx="1186" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -438,6 +438,20 @@
       <root>
         <mxCell id="F4jeovue1AuWx5BbVDrd-0" />
         <mxCell id="F4jeovue1AuWx5BbVDrd-1" parent="F4jeovue1AuWx5BbVDrd-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lecabn-m68B9SP01Ez_o" name="Oauth">
+    <mxGraphModel dx="1186" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="pCI6K_Hxq7h-FPJD5_qQ-0" />
+        <mxCell id="pCI6K_Hxq7h-FPJD5_qQ-1" parent="pCI6K_Hxq7h-FPJD5_qQ-0" />
+        <mxCell id="pCI6K_Hxq7h-FPJD5_qQ-2" value="Resource" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pCI6K_Hxq7h-FPJD5_qQ-1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pCI6K_Hxq7h-FPJD5_qQ-3" value="Resource Owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pCI6K_Hxq7h-FPJD5_qQ-1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
