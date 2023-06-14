@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T17:11:46.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="mfWWRm9dVeeHItq5DXh6" version="17.4.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-14T16:53:09.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="edSu_aMkGvSqAA6R8oK1" version="20.0.1" type="github" pages="14">
   <diagram id="k6agyk59lx-YB09rIl-A" name="Kafka">
-    <mxGraphModel dx="1186" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,10 +435,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k_0v12ZFJBZKMYWC7d4t" name="AWS">
-    <mxGraphModel dx="1298" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="S5i_nSuKf00P4-fY0-FT-0" />
         <mxCell id="S5i_nSuKf00P4-fY0-FT-1" parent="S5i_nSuKf00P4-fY0-FT-0" />
+        <mxCell id="P5WJmXi5Kl9LWBSPBc8i-0" value="IAM Access Analyzer&lt;br&gt;&lt;br&gt;this depends on the cloud trail to report findings.. findings are something which are outside the account&lt;br&gt;It can also analyze laast 90 days logs and creaate a policy specific to the accesses during that time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="S5i_nSuKf00P4-fY0-FT-1">
+          <mxGeometry x="40" y="70" width="560" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -657,11 +660,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oUTsf6uU3X9ZxocJWhh5" name="Amazon">
-    <mxGraphModel dx="1186" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U1NfTfl8twRhY2V1YqDa-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(80, 88, 99); font-family: lato; font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Tell me about yourself?&#xa;How did you help someone promote?&#xa;How do you manage people?&#xa;Tell me about an incident where you worked with a poor performer?&#xa;How did you do interviews to hire new ones?&#xa;How did guage technical people?&#xa;How did you know if they were a good fit?&#xa;Who are your business partners?&#xa;What is your biggest strength?&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U1NfTfl8twRhY2V1YqDa-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(80, 88, 99); font-family: lato; font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Tell me about yourself?&#xa;How did you help someone promote?&#xa;How do you manage people?&#xa;Tell me about an incident where you worked with a poor performer?&#xa;How did you do interviews to hire new ones?&#xa;How did guage technical people?&#xa;How did you know if they were a good fit?&#xa;Who are your business partners?&#xa;What is your biggest strength?&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" width="480" height="230" as="geometry" />
         </mxCell>
       </root>
